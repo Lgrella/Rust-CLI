@@ -1,0 +1,10 @@
+/Users/lillygrella/rust-cli1/Rust-CLI/rust_cli/target/debug/deps/libfloat_cmp-7cac666138566251.rmeta: /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/lib.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/macros.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps_eq.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/eq.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ratio.rs
+
+/Users/lillygrella/rust-cli1/Rust-CLI/rust_cli/target/debug/deps/float_cmp-7cac666138566251.d: /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/lib.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/macros.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps_eq.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/eq.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ratio.rs
+
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/lib.rs:
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/macros.rs:
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps.rs:
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ulps_eq.rs:
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/eq.rs:
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/float-cmp-0.9.0/src/ratio.rs:

@@ -1,0 +1,14 @@
+/Users/lillygrella/rust-cli1/Rust-CLI/rust_cli/target/debug/deps/libassert_cmd-a15e1ea79fca53ed.rmeta: /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/lib.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/assert.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cargo.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cmd.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/output.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/color.rs /Users/lillygrella/rust-cli1/Rust-CLI/rust_cli/target/debug/build/assert_cmd-931194f3319a8a4a/out/current_target.txt /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/../README.md
+
+/Users/lillygrella/rust-cli1/Rust-CLI/rust_cli/target/debug/deps/assert_cmd-a15e1ea79fca53ed.d: /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/lib.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/assert.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cargo.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cmd.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/output.rs /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/color.rs /Users/lillygrella/rust-cli1/Rust-CLI/rust_cli/target/debug/build/assert_cmd-931194f3319a8a4a/out/current_target.txt /Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/../README.md
+
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/lib.rs:
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/assert.rs:
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cargo.rs:
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/cmd.rs:
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/output.rs:
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/color.rs:
+/Users/lillygrella/rust-cli1/Rust-CLI/rust_cli/target/debug/build/assert_cmd-931194f3319a8a4a/out/current_target.txt:
+/Users/lillygrella/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.14/src/../README.md:
+
+# env-dep:OUT_DIR=/Users/lillygrella/rust-cli1/Rust-CLI/rust_cli/target/debug/build/assert_cmd-931194f3319a8a4a/out
