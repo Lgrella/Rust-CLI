@@ -24,3 +24,9 @@
 ## Example Testing
 
 ![test](test.png)
+
+## With Data File
+* The command line has functionality to review CSV files to find lines with the word of interest.
+
+![withdata](withdata.png) 
+
